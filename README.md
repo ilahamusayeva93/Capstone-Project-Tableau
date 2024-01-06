@@ -1,6 +1,6 @@
 ### Project Description
 
-This capstone project comprises two distinct tasks. Ensure to submit your solutions to homework@dsa.az by February 05, 23:59.
+This capstone project comprises two distinct tasks. 
 
 ### Task 1: Performance Analysis
 
